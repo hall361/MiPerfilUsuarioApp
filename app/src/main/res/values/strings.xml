@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiPerfilUsuarioApp</string>
+    <string name="profile_name">Nombre: Hector Anibal Lopez Lopez</string>
+    <string name="profile_age">Edad: 40 años</string>
+    <string name="profile_profession">Profesión: Estudiante Ingeniería de Software</string>
+    <string name="profile_city">Ciudad: Rionegro - Antioquia</string>
+    <string name="profile_image_description">Imagen de perfil de Hector</string>
+</resources>
